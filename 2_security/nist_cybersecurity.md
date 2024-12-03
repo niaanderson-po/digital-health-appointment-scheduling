@@ -15,7 +15,11 @@ Recover: This is about getting back on our feet after a security incident. We wo
 Five tiers to gauge cybersecurity effectiveness:
 
 Tier 0: does not exist
+
 Tier 1: ad-hoc or heavily relying on individual's knowledge
+
 Tier 2: decentralized or there are only informal processes
+
 Tier 3: company-wide, documented processes
+
 Tier 4: innovative technologies in use, proactive review and development

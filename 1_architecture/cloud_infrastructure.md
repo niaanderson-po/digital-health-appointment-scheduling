@@ -1,6 +1,10 @@
 Cloud Infrsturtcure Consideration-
 
-Business Context: Currently, Digital Health has their own servers that hold confidential patient data, which are running in a dedicated room at their own office and are maintained by their own team. They need to buy new machines but are unsure how much they should invest to be able to serve future customers. They want to be able to serve all potential customers, but at the same time keep costs reasonable. Additionally, since Digital Health deals with patient data, they need to make sure that sensitive patient data is not on the cloud. This means that Digital Health will need to keep on-premise data centers and only upload non-sensitive information to the cloud.
+Buisness Context:
+
+Currently, Digital Health has their own servers that hold confidential patient data, which are running in a dedicated room at their own office and are maintained by their own team. They need to buy new machines but are unsure how much they should invest to be able to serve future customers. They want to be able to serve all potential customers, but at the same time keep costs reasonable. Additionally, since Digital Health deals with patient data, they need to make sure that sensitive patient data is not on the cloud. This means that Digital Health will need to keep on-premise data centers and only upload non-sensitive information to the cloud.
+
+Consultation:
 
 A valid reason for Digital Health to start using cloud would be if Digital Health plans to experiment on a new type of service and is unsure if that service will ever be useful in production. This is a good example of how cloud services can be used. In cloud, the infrastructure costs must be paid only as long as an experiment goes on. It would be much slower and much more expensive to buy new hardware for a short experiment.
 
